@@ -18,10 +18,10 @@ Create a safe and trusted platform for campus-based commerce.
 Encourage networking and collaboration among students.
 
 **🔧 Tech Stack (Planned)**
-Frontend: HTML, CSS, JavaScript (later React or Vue)
-Backend: (to be decided)
-Database: (to be decided)
-Deployment: GitHub Pages (initial testing) → Cloud/Hosting later
+- Frontend: HTML, CSS, JavaScript (later React or Vue)
+- Backend: (to be decided)
+- Database: (to be decided)
+- Deployment: GitHub Pages (initial testing) → Cloud/Hosting later
 
 **📌 Roadmap**
 Build the basic website structure (frontend pages).
